@@ -54,4 +54,5 @@ You'll need to set up the following API keys:
 - Fun and engaging commands
 - Essential utilities for Discord servers
 
+
 For more help, join our support server: https://discord.gg/codexdev
